@@ -1,10 +1,16 @@
 # 🌐 Open Portfolio Parade
 
+<p align="center">
+<img src='https://img.shields.io/github/stars/sohaibdevv/open-portfolio-parade?style=social' alt='GitHub Repo stars'/>
+<img src='https://img.shields.io/github/forks/sohaibdevv/open-portfolio-parade?style=social' alt='GitHub forks'/>
+<img src='https://img.shields.io/github/license/EddieHubCommunity/api?style=social' alt='GitHub'/>
+</p>
+
 A friendly open‑source project where **anyone** can add their:
 
-- Name  
-- GitHub username  
-- Portfolio link  
+- **Name**  
+- **GitHub username**
+- **Portfolio link**  
 
 Perfect for anyone making their **first GitHub contribution**.
 
@@ -26,13 +32,13 @@ This creates your own copy of the project.
 4. Add your entry in this exact format:
 
 ```
-- **Your Name** | [githubusername](https://github.com/your-username) | [Portfolio](https://portfolio-link.com)
+**Your Name** | [githubusername](https://github.com/your-username) | [Portfolio](https://portfolio-link.com)
 ```
 
 Example:
 
 ```
-- **Sohaib Malik** | [sohaibdevv](https://github.com/sohaibdevv) | [Portfolio](https://sohaibmalikdev-portfolio.vercel.app)
+**Sohaib Malik** | [sohaibdevv](https://github.com/sohaibdevv) | [Portfolio](https://sohaibmalikdev-portfolio.vercel.app)
 ```
 
 ## Step 3: Submit a Pull Request
@@ -42,13 +48,13 @@ Example:
 3. Click **Compare & Pull Request**  
 4. Submit your PR  
 
-Once your PR is merged, your name will appear in the contributors table and avatar wall.
+Once your PR is merged, your name will appear in the contributors table and contributors wall.
 
 ## 👥 Contributors
 
 | Name          | GitHub          | Portfolio                          |
 |---------------|-----------------|------------------------------------|
-| Sohaib Malik | [sohaibdevv](https://github.com/sohaibdevv) | [Portfolio](https://sohaibmalikdev-portfolio.vercel.app/) |
+| **Sohaib Malik** | [sohaibdevv](https://github.com/sohaibdevv) | [Portfolio](https://sohaibmalikdev-portfolio.vercel.app/) |
 
 ## 🧱 Contributors Wall
 
