@@ -12,7 +12,7 @@ A friendly open‑source project where **anyone** can add their:
 - **GitHub username**
 - **Portfolio link**  
 
-Perfect for anyone making their **first GitHub contribution**.
+Perfect for anyone making their ***first GitHub contribution***.
 
 ## 🚀 Contribute in 3 Easy Steps
 
@@ -48,7 +48,7 @@ Example:
 3. Click **Compare & Pull Request**  
 4. Submit your PR  
 
-Once your PR is merged, your name will appear in the contributors table and contributors wall.
+Once your ***PR is merged***, your name will appear in the ***contributors table*** and ***contributors wall***. 👇
 
 ## 👥 Contributors
 
