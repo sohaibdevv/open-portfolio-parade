@@ -1,0 +1,33 @@
+name: Portfolio Contribution Check
+
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  validate-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check README.md for contributor entry
+        run: |
+          # Look for the required table row format:
+          # **Name** | [githubusername](https://github.com/username) | [Portfolio](https://...)
+          if grep -Eq "\*\*.+\*\* \| 
+
+\[.+\]
+
+\(https://github.com/.+\) \| 
+
+\[Portfolio\]
+
+\(https://.+\)" README.md; then
+            echo "✅ Contributor entry found in README.md"
+          else
+            echo "❌ Please add your details in the Contributors table using the exact format:"
+            echo "**Your Name** | [githubusername](https://github.com/your-username) | [Portfolio](https://portfolio-link.com)"
+            exit 1
+          fi
